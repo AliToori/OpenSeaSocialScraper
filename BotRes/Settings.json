@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "ClientSecretFileName": "AliGSheetSecret.json",
+        "SpreadSheet": "BinanceFuturesAccount",
+        "WorkSheet": "BinanceFuturesAccount",
+        "ThreadCount": 3
+    }
+}
